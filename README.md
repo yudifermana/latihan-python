@@ -48,4 +48,6 @@ saya juga menuliskan nama,nim,kls sebagia tambahan.dibawah ini hasilnya:
 
 ![lat 3](https://user-images.githubusercontent.com/115516653/197431606-8c26bd94-143f-404b-aaeb-de2be66858cc.png)
 
-sekian tutorial dari saya kurang lebihnya mohon maaf.TRIMAKASIH
+cukup sekian mengenai penggambaran python dari saya,kurang lebihnya mohon di maafkan 
+
+TRIMAKASIH 
